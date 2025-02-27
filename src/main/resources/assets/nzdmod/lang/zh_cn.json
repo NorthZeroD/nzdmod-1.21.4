@@ -1,0 +1,12 @@
+{
+  "item.nzdmod.suspicious_substance": "可疑物质",
+  "block.nzdmod.condensed_dirt": "压缩泥土",
+  "item.nzdmod.condensed_dirt": "压缩泥土",
+  "block.nzdmod.condensed_oak_log": "压缩橡木原木",
+  "item.nzdmod.condensed_oak_log": "压缩橡木原木",
+  "item.nzdmod.guidite_sword": "向导剑",
+  "item.nzdmod.guidite_pickaxe": "向导镐",
+  "item.nzdmod.lightning_stick": "闪电之杖",
+  "tooltip.nzdmod.lightning_stick": "右键召唤闪电!",
+  "itemGroup.nzdmod": "NZD的模组!"
+}
